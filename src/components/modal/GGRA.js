@@ -2,7 +2,7 @@ import React from 'react';
 import 'wicg-inert';
 
 import { Backdrop, Content } from "../styled-constants";
-import Portal from '../portal';
+import Portal from '../portal/portal_index';
 
 export default function Modal(props) {
     const [active, setActive] = React.useState(false);
