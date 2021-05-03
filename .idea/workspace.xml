@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1694d1c-f99d-41d2-be2c-dc0bc2501d6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/About.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Experience.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Projects.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Sidebar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -38,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/About.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="44" />
+              <caret line="2" column="44" selection-start-line="2" selection-end-line="2" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -61,13 +59,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Projects.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -87,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/components/Experience.jsx" />
         <option value="$PROJECT_DIR$/src/components/Home.jsx" />
         <option value="$PROJECT_DIR$/src/components/Projects.jsx" />
+        <option value="$PROJECT_DIR$/public/manifest.json" />
       </list>
     </option>
   </component>
@@ -114,13 +127,12 @@
             <path>
               <item name="my-portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -168,12 +180,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620077734015</updated>
-      <workItem from="1620077735185" duration="987000" />
+      <workItem from="1620077735185" duration="1143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="987000" />
+    <option name="totallyTimeSpent" value="1143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1427" height="837" extended-state="0" />
@@ -233,7 +245,7 @@
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
@@ -246,7 +258,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/About.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="44" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="44" />
+          <caret line="2" column="44" selection-start-line="2" selection-end-line="2" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -270,6 +282,16 @@
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
