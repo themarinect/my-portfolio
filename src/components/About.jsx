@@ -15,14 +15,14 @@ export default class About extends Component {
                                             <span className="heading-meta">About Me</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
                                             <span>
-                                                <p><h2>Hi there! My name is Khang Ho. I am a future software engineer based in Atlanta, GA.</h2></p>
-                                                <p><h2>I have recently graduated from Georgia Gwinnett College with Information Technology as my
-                                                    major with the concentration of Software Development.</h2></p>
-                                                <p><h2>I specialize in backend web development using various technology stacks such as
-                                                Spring Boot, .NET Core, ASP.Net, PHP Laravel, and NodeJS. I have also been exposed to desktop application development environments such as JavaFX, WPF, and Windows Forms. I am striving to become a good software engineer by constantly familiarizing myself with trending and current technologies.</h2></p>
-                                                <p><h2>I love exploring new technologies and often amazed by the progress
+                                                <p>Hi there! My name is Khang Ho. I am a future software engineer based in Atlanta, GA.</p>
+                                                <p>I have recently graduated from Georgia Gwinnett College with Information Technology as my
+                                                    major with the concentration of Software Development.</p>
+                                                <p>I specialize in backend web development using various technology stacks such as
+                                                Spring Boot, .NET Core, ASP.Net, PHP Laravel, and NodeJS. I have also been exposed to desktop application development environments such as JavaFX, WPF, and Windows Forms. I am striving to become a good software engineer by constantly familiarizing myself with trending and current technologies.</p>
+                                                <p>I love exploring new technologies and often amazed by the progress
                                                 we as a human species have made so far in the technology world.
-                                                    In the following years, I also plan to explore the frontend side more and become a better-rounded full stack developer.</h2></p>
+                                                    In the following years, I also plan to explore the frontend side more and become a better-rounded full stack developer.</p>
                                             </span>
                                         </div>
                                     </div>
@@ -100,7 +100,7 @@ export default class About extends Component {
                 </span>
                                     <div className="desc">
                                         <h3>Dev Ops</h3>
-                                        <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                                        <p>I have experience with DevOps by working with tools like Azure Devops, Docker, Travis-CI for my projects</p>
                                     </div>
                                 </div>
                             </div>
