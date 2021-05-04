@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
-export default class About extends Component{
+export default class About extends Component {
     render() {
         return (
 
@@ -35,7 +35,8 @@ export default class About extends Component{
                 <section className="colorlib-about">
                     <div className="colorlib-narrow-content">
                         <div className="row">
-                            <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+                            <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
+                                 data-animate-effect="fadeInLeft">
                                 <span className="heading-meta">What I do?</span>
                                 <h2 className="colorlib-heading">Here are some of my expertise</h2>
                             </div>
@@ -46,35 +47,36 @@ export default class About extends Component{
                             <div className="col-md-4 text-center animate-box">
                                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-home" />
+                    <i className="icon-stack-2"/>
                 </span>
                                     <div className="desc">
                                         <h3>Data Structures & Algorithms</h3>
-                                        <h4><p>As coming from the Computer Science background, I have good grasp over the fundamental concepts of DS&A</p></h4>
+                                        <p>As coming from the CS background, I have good grasp over fundamental concepts
+                                            of DSA</p>
                                     </div>
                                 </div>
                             </div>
 
                             <div className="col-md-4 text-center animate-box">
-                                <div className="services color-1">
+                                <div className="services color-5">
                 <span className="icon">
-                    <i className="icon-globe2" />
-                </span>
-                                    <div className="desc">
-                                        <h3>Web Development </h3>
-                                        <h4><p>I have experience building websites and web applications using various technology stacks such as Spring Boot, .NET Core, ASP.Net, PHP Laravel, and NodeJS</p></h4>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="col-md-4 text-center animate-box">
-                                <div className="services color-1">
-                <span className="icon">
-                    <i className="icon-monitor" />
+                    <i className="icon-display2"/>
                 </span>
                                     <div className="desc">
                                         <h3>Desktop Application Development </h3>
-                                        <h4><p>I have experience building stacks such as JavaFX, WPF, and Windows Forms</p></h4>
+                                        <p>I have experience with JavaFX, WPF, and Windows Forms</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="col-md-4 text-center animate-box">
+                                <div className="services color-1">
+                <span className="icon">
+                    <i className="icon-globe2"/>
+                </span>
+                                    <div className="desc">
+                                        <h3>Web Development </h3>
+                                        <p>I have experience building websites and web applications using various technology stacks such as Spring Boot, .NET Core, ASP.Net, PHP Laravel, React, and NodeJS</p>
                                     </div>
                                 </div>
                             </div>
@@ -86,7 +88,7 @@ export default class About extends Component{
                 </span>
                                     <div className="desc">
                                         <h3>Database Administration</h3>
-                                        <h4><p>I have experience planning, creating, modifying, and monitoring database using Microsoft SQL Server, MySQL, Oracle</p></h4>
+                                        <p>I have experience planning, creating, modifying, and monitoring database using Microsoft SQL Server, MySQL, and Oracle</p>
                                     </div>
                                 </div>
                             </div>
@@ -94,61 +96,15 @@ export default class About extends Component{
                             <div className="col-md-4 text-center animate-box">
                                 <div className="services color-2">
                 <span className="icon">
-                    <i className="icon-cloud3" />
+                    <i className="icon-infinity" />
                 </span>
                                     <div className="desc">
-                                        <h3>Cloud Computing</h3>
-                                        <h4><p>I am familiar with the fundamental cloud concepts for Azure and AWS.</p></h4>
+                                        <h3>Dev Ops</h3>
+                                        <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
                                     </div>
                                 </div>
                             </div>
 
-                            {/*            <div className="col-md-4 text-center animate-box">*/}
-                            {/*                <div className="services color-5">*/}
-                            {/*<span className="icon">*/}
-                            {/*    <i className="icon-layers2" />*/}
-                            {/*</span>*/}
-                            {/*                    <div className="desc">*/}
-                            {/*                        <h3>Dev Ops</h3>*/}
-                            {/*                        <h4><p>I have experience working DevOps tools like Jenkins, Docker, K8s</p></h4>*/}
-                            {/*                    </div>*/}
-                            {/*                </div>*/}
-                            {/*            </div>*/}
-                            {/*
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-layers2" />
-                </span>
-                <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
-                </div>
-                </div>
-            </div>
-            */}
                         </div>
                     </div>
                 </section>
