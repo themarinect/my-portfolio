@@ -15,14 +15,22 @@ export default class About extends Component {
                                             <span className="heading-meta">About Me</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
                                             <span>
-                                                <p>Hi there! My name is Khang Ho. I am a future software engineer based in Atlanta, GA.</p>
+                                                <p>Hi there! My name is Khang Ho. I am a software engineer based in Atlanta, GA.</p>
                                                 <p>I have recently graduated from Georgia Gwinnett College with Information Technology as my
                                                     major with the concentration of Software Development.</p>
-                                                <p>I specialize in backend web development using various technology stacks such as
+                                                <p>I specialize in full stack web development using various technology stacks such as
                                                 Spring Boot, .NET Core, ASP.Net, PHP Laravel, and NodeJS. I have also been exposed to desktop application development environments such as JavaFX, WPF, and Windows Forms. I am striving to become a good software engineer by constantly familiarizing myself with trending and current technologies.</p>
                                                 <p>I love exploring new technologies and often amazed by the progress
                                                 we as a human species have made so far in the technology world.
                                                     In the following years, I also plan to explore the frontend side more and become a better-rounded full stack developer.</p>
+                                                <p>These are my personal traits that can contribute to the success of your company:</p>
+                                                <ul>
+                                                    <li><strong>Customer-focused</strong>: I believe that doing what’s right for the customer is ultimately what will drive the business forward</li>
+                                                    <li><strong>Pragmatic</strong>: I try my best to do things quickly to learn what the customers desire. I know when it’s appropriate to take shortcuts that don’t sacrifice quality or maintainability.</li>
+                                                    <li><strong>Fast learner</strong>: I am willing to learn how to use new technologies and then rapidly apply them to new problems.</li>
+                                                    <li><strong>Team player</strong>: I strongly believe that more can be achieved together. I listen to feedback to improve myself and also provide supportive feedback to help others grow.</li>
+                                                    <li><strong>Obsessed with Quality</strong>: I always strive to make my production code work & scale linearly.</li>
+                                                </ul>
                                             </span>
                                         </div>
                                     </div>
