@@ -51,15 +51,15 @@ export default function Modal(props) {
                         {/*<Content className="modal-content">{props.children}</Content>*/}
                         <Content className="modal-content">
                             <div className='modal-body'>
-                                <h4>E-commerce Website</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Alias culpa cum facilis iste iure pariatur qui ratione reprehenderit tempora
-                                    temporibus.</p>
-                                <p>My responsibilities:</p>
+                                <h4><strong>E-commerce website</strong></h4>
+                                <h5>An e-commerce web app written in PHP with Laravel framework</h5>
+                                <h5>My responsibilities:</h5>
                                 <ul>
-                                    <li>Utilizing Spring Boot</li>
-                                    <li>Using Github</li>
-                                    <li>Tracking project using Jira</li>
+                                    <li><h6>Implemented role-based registration, authentication, and authorization.</h6></li>
+                                    <li><h6>Integrated a custom shopping cart.</h6></li>
+                                    <li><h6>Integrated products, categories, and users management.</h6></li>
+                                    <li><h6>Created admin portal for full CRUD and reports generation.</h6></li>
+                                    <li><h6>Utilized Waterfall methodology to manage project and Github to share code.</h6></li>
                                 </ul>
                             </div>
                         </Content>
