@@ -51,15 +51,15 @@ export default function Modal(props) {
                         {/*<Content className="modal-content">{props.children}</Content>*/}
                         <Content className="modal-content">
                             <div className='modal-body'>
-                                <h4>GGRA Modal</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Alias culpa cum facilis iste iure pariatur qui ratione reprehenderit tempora
-                                    temporibus.</p>
-                                <p>My responsibilities:</p>
+                                <h4><strong>Resource map for Greater Gwinnett Reentry Alliance</strong></h4>
+                                <h5>A .NET Core Web App for our client, Greater Gwinnett Reentry Alliance, who facilitates formerly incarcerated people their successful reintegration into society.</h5>
+                                <h5>My responsibilities:</h5>
                                 <ul>
-                                    <li>Utilizing Spring Boot</li>
-                                    <li>Using Github</li>
-                                    <li>Tracking project using Jira</li>
+                                    <li><h6>Built backend portal with full CRUD for admins by using Entity Framework.</h6></li>
+                                    <li><h6>Implemented front end in Javascript and Razor pages which dynamically created HTML from models and JSON response from our REST API and interfaced with Google Map API.</h6></li>
+                                    <li><h6>Managed Microsoft Azure app configuration for building, testing, and deploying.</h6></li>
+                                    <li><h6>Utilized Scrum to manage project’s sprints and backlogs and tracked in Jira.</h6></li>
+                                    <li><h6>Assigned sprint objectives and creation and distribution of user stories.</h6></li>
                                 </ul>
                             </div>
                         </Content>
