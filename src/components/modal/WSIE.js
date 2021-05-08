@@ -51,17 +51,15 @@ export default function Modal(props) {
                         {/*<Content className="modal-content">{props.children}</Content>*/}
                         <Content className="modal-content">
                             <div className='modal-body'>
-                                <h4>What Should I Eat?</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Alias culpa cum facilis iste iure pariatur qui ratione reprehenderit tempora
-                                    temporibus.</p>
-                                <p>My responsibilities:</p>
+                                <h4><strong>What Should I Eat?</strong></h4>
+                                <h5>A Java Spring App built on RESTful architecture that allows users to apply personal preferences to 100s of foods in MySQL database hosted on AWS.</h5>
+                                <h5>My responsibilities:</h5>
                                 <ul>
-                                    <li>Developed Java Spring Boot Web App build on RESTful architecture that allows users to see recipes based on personal preferences of more than 100s of foods and ingredients in MySQL database</li>
-                                    <li>Implemented role-based authentication and authorization by using Spring Boot Security</li>
-                                    <li>Built REST API and JPA based repositories by using Spring Data JPA to store and retrieve data in a relational database</li>
-                                    <li>Created Admin portal for admin users to perform CRUD operations by using object models, Thymeleaf and Bootstrap</li>
-                                    <li>Utilized Scrum to manage project’s sprints and backlogs and tracked in Jira</li>
+                                    <li><h6>Built backend portal with full CRUD for admins.</h6></li>
+                                    <li><h6>Implemented role-based authentication and authorization by using Spring Boot Security.</h6></li>
+                                    <li><h6>Built REST API and JPA-based repositories by using Spring Data JPA to store and retrieve data in a relational database.</h6></li>
+                                    <li><h6>Utilized Scrum to manage project’s sprints and backlogs and tracked in Jira.</h6></li>
+                                    <li><h6>Assigned sprint objectives and creation and distribution of user stories.</h6></li>
                                 </ul>
                             </div>
                         </Content>
