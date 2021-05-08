@@ -24,6 +24,7 @@ export default class Experience extends Component{
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Pharmacy Technician at CVS Pharmacy <span>Jan 2015 - August 2019</span></h2>
+                                                <p>Manager Takisha Miles 770.962.6117</p>
                                                 <p>I worked as a part-time pharmacy technician at CVS Pharmacy in Buford, GA for 3 years. My responsibilities included
                                                     supporting pharmacists to fill prescriptions, pharmacy claims adjudication, and inventory management.</p>
                                             </div>
