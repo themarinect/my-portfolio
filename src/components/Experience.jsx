@@ -24,24 +24,11 @@ export default class Experience extends Component{
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Pharmacy Technician at CVS Pharmacy <span>Jan 2015 - August 2019</span></h2>
-                                                <p><h3>I worked as a part-time pharmacy technician at CVS Pharmacy in Buford, GA for 3 years. It was my first job in the US. My responsibilities included
-                                                    supporting pharmacists to fill prescriptions, pharmacy claims adjudication, and inventory management.</h3></p>
+                                                <p>I worked as a part-time pharmacy technician at CVS Pharmacy in Buford, GA for 3 years. It was my first job in the US. My responsibilities included
+                                                    supporting pharmacists to fill prescriptions, pharmacy claims adjudication, and inventory management.</p>
                                             </div>
                                         </div>
                                     </article>
-
-                                    {/*<article className="timeline-entry animate-box" data-animate-effect="fadeInTop">*/}
-                                    {/*    <div className="timeline-entry-inner">*/}
-                                    {/*        <div className="timeline-icon color-4">*/}
-                                    {/*            <i className="icon-pen2" />*/}
-                                    {/*        </div>*/}
-                                    {/*        <div className="timeline-label">*/}
-                                    {/*            <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>*/}
-                                    {/*            <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>*/}
-                                    {/*        </div>*/}
-                                    {/*    </div>*/}
-                                    {/*</article>*/}
-
 
                                     <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
                                         <div className="timeline-entry-inner">
