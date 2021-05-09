@@ -62,6 +62,34 @@ export default function Modal(props) {
                                     <li><h6>Assigned sprint objectives and creation and distribution of user stories.</h6></li>
                                 </ul>
                             </div>
+
+                            <div className="modal-footer gallery">
+                                <a target='_blank' href={'images/ggra_flyer.png'}>
+                                    <img src={'images/ggra_flyer.png'}/>
+                                </a>
+                                <div className="desc">Project's flyer</div>
+                            </div>
+
+                            <div className="modal-footer gallery">
+                                <a target='_blank' href={'images/ggra_home.png'}>
+                                    <img src={'images/ggra_home.png'}/>
+                                </a>
+                                <div className="desc">Home page</div>
+                            </div>
+
+                            <div className="modal-footer gallery">
+                                <a target='_blank' href={'images/ggra_categories.png'}>
+                                    <img src={'images/ggra_categories.png'}/>
+                                </a>
+                                <div className="desc">Categories management</div>
+                            </div>
+
+                            <div className="modal-footer gallery">
+                                <a target='_blank' href={'images/ggra_providers.png'}>
+                                    <img src={'images/ggra_providers.png'}/>
+                                </a>
+                                <div className="desc">Providers management</div>
+                            </div>
                         </Content>
                     </Backdrop>
                 </Portal>
