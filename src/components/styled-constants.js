@@ -42,6 +42,7 @@ export const Backdrop = styled.div`
 
 export const Content = styled.div`
   
+  overflow: auto; //scrollbar
   position: relative;
   width: fit-content;
   height: fit-content;
@@ -58,4 +59,27 @@ export const Content = styled.div`
   background-color: white;
   border-radius: 2px;
   font-size: 10px;
+  
+  div.gallery {
+    margin-left: 20px;
+    margin-bottom: 60px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 200px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+
+  div.gallery img {
+    width: 100%;
+    height: 100px;
+  }
+  
+  div.desc {
+    font-size: 15px;
+    padding: 15px;
+    text-align: center;
+  }
 `;
