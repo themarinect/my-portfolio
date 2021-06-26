@@ -12,6 +12,7 @@ export default class Sidebar extends Component{
                             <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}}/>
                             <h1 id="colorlib-logo"><a href="index.html">Khang Ho</a></h1>
                             <span className="email"><i className="icon-mail"></i> <h3>themarinect@gmail.com</h3></span>
+                            <span className="phone"><i className="icon-phone3"></i> <h3>678-267-6578</h3></span>
                         </div>
                         <nav id="colorlib-main-menu" role="navigation" className="navbar">
                             <div id="navbar" className="collapse">
