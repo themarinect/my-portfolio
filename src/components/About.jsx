@@ -108,7 +108,7 @@ export default class About extends Component {
                 </span>
                                     <div className="desc">
                                         <h3>Dev Ops</h3>
-                                        <p>I have experience with DevOps by working with tools like Azure Devops, Kuduscript, Travis-CI for my projects</p>
+                                        <p>I have experience with DevOps by working with tools like Azure Devops, Kudu, Travis-CI for my projects</p>
                                     </div>
                                 </div>
                             </div>
