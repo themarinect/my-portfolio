@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://themarinect.github.io/my-portfolio",
+  "homepage": "https://khangho.dev",
   "dependencies": {
     "@babel/core": "^7.14.6",
     "@popperjs/core": "^2.9.2",
