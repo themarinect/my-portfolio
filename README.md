@@ -7,4 +7,4 @@
   - run `yarn install` to instal node modules
   - run `yarn run start` to start the service on `localhost:3000`
     
-##### Deployed app website : khangho.dev
+##### Deployed app website : https://khangho.dev
