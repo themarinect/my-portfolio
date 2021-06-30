@@ -32,13 +32,16 @@ export default function Projects() {
                                 <div className="desc">
                                     <div className="con">
                                         <h3><a href="work.html">What Should I Eat?</a></h3>
-                                        <span><a href='http://whattoeat-env.eba-2iyhmdzy.us-east-2.elasticbeanstalk.com/' target='_blank'>Demo website</a></span>
                                         <br/>
 
                                         <span
                                             onClick={() => {setIsOpenModalWSIE(true);}}
                                         >
                                             <h6><a className='btn btn-success' style={{display: "block"}}>Details</a></h6>
+                                        </span>
+
+                                        <span>
+                                            <h6><a className='btn btn-success' style={{display: "block"}} href='http://whattoeat-env.eba-2iyhmdzy.us-east-2.elasticbeanstalk.com/' target='_blank'>View demo</a></h6>
                                         </span>
 
                                         <WSIEModal
@@ -59,7 +62,6 @@ export default function Projects() {
                                 <div className="desc">
                                     <div className="con">
                                         <h3><a>GGRA Resources Map</a></h3>
-                                        <span><a href='https://ggra-development.azurewebsites.net/larkMap.html' target='_blank'>Demo website</a></span>
 
                                         <br/>
 
@@ -67,6 +69,10 @@ export default function Projects() {
                                             onClick={() => {setIsOpenGGRA(true);}}
                                         >
                                             <h6><a className='btn btn-success' style={{display: "block"}}>Details</a></h6>
+                                        </span>
+
+                                        <span>
+                                            <h6><a className='btn btn-success' style={{display: "block"}} href='https://ggra-development.azurewebsites.net/larkMap.html' target='_blank'>View demo</a></h6>
                                         </span>
 
                                         <GGRAModal
@@ -87,7 +93,6 @@ export default function Projects() {
                                 <div className="desc">
                                     <div className="con">
                                         <h3><a>E-commerce Website</a></h3>
-                                        <span><a href='https://laravel-ecom-webapp.herokuapp.com' target='_blank'>Demo website</a></span>
 
                                         <br/>
 
@@ -96,6 +101,14 @@ export default function Projects() {
                                         >
                                             <h6><a className='btn btn-success' style={{display: "block"}}>Details</a></h6>
                                         </span>
+
+                                        <span>
+                                            <h6><a className='btn btn-success' style={{display: "block"}} href='https://laravel-ecom-webapp.herokuapp.com' target='_blank'>View demo</a></h6>
+                                        </span>
+
+                                        {/*<span>*/}
+                                        {/*    <h6><a className='btn btn-success' style={{display: "block"}} href='' target='_blank'>View code</a></h6>*/}
+                                        {/*</span>*/}
 
                                         <EcomModal
                                             onClose={() => {
