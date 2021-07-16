@@ -62,6 +62,42 @@ export default function Modal(props) {
                                     <li><h6>Utilized Waterfall methodology to manage project and Github to share code.</h6></li>
                                 </ul>
                             </div>
+
+                            <div className="modal-footer gallery">
+                                <a target='_blank' href={'images/admin_add_cat.JPG'}>
+                                    <img src={'images/admin_add_cat.JPG'}/>
+                                </a>
+                                <div className="desc">Add Category</div>
+                            </div>
+
+                            <div className="modal-footer gallery">
+                                <a target='_blank' href={'images/admin_cat_list.JPG'}>
+                                    <img src={'images/admin_cat_list.JPG'}/>
+                                </a>
+                                <div className="desc">Category List</div>
+                            </div>
+
+                            <div className="modal-footer gallery">
+                                <a target='_blank' href={'images/admin_add_pro.JPG'}>
+                                    <img src={'images/admin_add_pro.JPG'}/>
+                                </a>
+                                <div className="desc">Add Product</div>
+                            </div>
+
+                            <div className="modal-footer gallery">
+                                <a target='_blank' href={'images/admin_pro_list.JPG'}>
+                                    <img src={'images/admin_pro_list.JPG'}/>
+                                </a>
+                                <div className="desc">Product List</div>
+                            </div>
+
+                            <div className="modal-footer gallery">
+                                <a target='_blank' href={'images/admin_add_cou.JPG'}>
+                                    <img src={'images/admin_add_cou.JPG'}/>
+                                </a>
+                                <div className="desc">Add Coupon</div>
+                            </div>
+
                         </Content>
                     </Backdrop>
                 </Portal>
