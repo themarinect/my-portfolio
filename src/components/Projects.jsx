@@ -92,7 +92,7 @@ export default function Projects() {
                             <div className="project" style={{backgroundImage: 'url(images/ecom.png)'}}>
                                 <div className="desc">
                                     <div className="con">
-                                        <h3><a>E-commerce Website</a></h3>
+                                        <h3><a>E-commerce Shop</a></h3>
 
                                         <br/>
 
@@ -104,6 +104,10 @@ export default function Projects() {
 
                                         <span>
                                             <h6><a className='btn btn-success' style={{display: "block"}} href='https://laravel-ecom-webapp.herokuapp.com' target='_blank'>View demo</a></h6>
+                                        </span>
+
+                                        <span>
+                                            <h6><a className='btn btn-success' style={{display: "block"}} href='https://laravel-ecom-webapp.herokuapp.com/admin' target='_blank'>View Admin demo</a></h6>
                                         </span>
 
                                         {/*<span>*/}
