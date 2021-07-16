@@ -15,7 +15,7 @@ export default class Home extends Component{
                                             <div className="slider-text-inner js-fullheight">
                                                 <div className="desc">
                                                     <h1 style={{color:"white"}}>Hi! <br />I'm Khang Ho</h1>
-                                                    <p><a style={{color:"white"}} className="btn btn-primary btn-learn" href="" target="_blank" rel="noopener noreferrer">View Resume<i className="icon-download4" /></a></p>
+                                                    <p><a style={{color:"white"}} className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1RkzKWHc_6wx8oAiZ9uyJjt8F6346Y1Rn/view?usp=sharing" target="_blank" rel="noopener noreferrer">View Resume<i className="icon-download4" /></a></p>
                                                 </div>
                                             </div>
                                         </div>
