@@ -18,7 +18,7 @@ export default class About extends Component {
                                                 <p>Hi there! My name is Khang Ho. I am a software engineer based in Atlanta, GA.</p>
                                                 <p>I have recently graduated from Georgia Gwinnett College with Information Technology as my
                                                     major with the concentration of Software Development.</p>
-                                                <p>I specialize in full stack web development using various technology stacks such as
+                                                <p>I specialize in full stack web development using various technology stacks such as Angular,
                                                 Spring Boot, .NET Core, ASP.Net, PHP Laravel, and NodeJS. I have also been exposed to desktop application development environments such as JavaFX, WPF, and Windows Forms. I am striving to become a good software engineer by constantly familiarizing myself with trending and current technologies.</p>
                                                 <p>I love exploring new technologies and often amazed by the progress
                                                 we as a human species have made so far in the technology world.
