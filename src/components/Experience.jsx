@@ -33,7 +33,7 @@ export default class Experience extends Component {
                                                     <ul>
                                                         <li>Build out Angular frontend apps about league management solution for sports used by over 20,000 clubs and leagues</li>
                                                         <li>Develop and maintain APIs using C#/.NET Core and SQL server on the backend hosted on a remote AWS cloud server</li>
-                                                        <li>Help refactoring monolith legacy code to assist in trasition to a microservices-based architecture</li>
+                                                        <li>Help refactoring legacy code monolith to assist in transition to a microservices-based architecture</li>
                                                         <li>Collaborate with peers on grooming sessions, sprint technical planning discussions, and code reviews with Agile methodology</li>
                                                         <li>Solve problems and deliver products and solutions that help fulfill the company's vision</li>
                                                     </ul>
